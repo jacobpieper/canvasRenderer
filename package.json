@@ -1,0 +1,21 @@
+{
+  "name": "node_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "licence": "MIT",
+  "dependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.2.5",
+    "vite": "^5.1.4"
+  }
+}
